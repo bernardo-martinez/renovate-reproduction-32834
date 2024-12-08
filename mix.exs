@@ -16,7 +16,7 @@ defmodule MyProject.MixProject do
 
   defp deps() do
     [
-      {:gun, "== 2.0.0", hex: :grpc_gun},
+      {:gun, "== 2.1.0", hex: :grpc_gun},
     ]
   end
 end
