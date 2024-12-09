@@ -5,13 +5,5 @@
     ],
     "enabledManagers": [
       "mix"
-    ],
-    "packageRules": [
-      {
-        "groupName": "mix",
-        "matchManagers": [
-          "mix"
-        ]
-      }
     ]
   }
