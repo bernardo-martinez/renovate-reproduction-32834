@@ -17,6 +17,7 @@ defmodule MyProject.MixProject do
   defp deps() do
     [
       {:gun, "== 2.0.1", hex: :grpc_gun},
+      {:json, "== 1.4.3", hex: "jason"}
     ]
   end
 end
